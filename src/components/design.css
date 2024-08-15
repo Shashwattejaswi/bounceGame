@@ -13,4 +13,7 @@
     border-radius: 50%;
     position: absolute;
     bottom: 0px;
+    transition: all .7s;
+    border: 0px;
+    outline: 0px;
 }
